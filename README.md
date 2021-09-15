@@ -18,5 +18,3 @@
 
 <p>Simple application, where you can store customer information such as Name, Surname, Age.</p>
 
-<strong>Due luck of time, this application will be not updated</strong>
-
